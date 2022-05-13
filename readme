@@ -1,1 +1,15 @@
-tbd
+#PersonalPortfolioWebsite
+
+## Description
+Justine Buddie Personal Portfolio Website
+
+## Build
+The website is hosted in AWS S3 (static web hosting)
+I used HTML & CSS tutorials as a basis and cusomized from there, see credits
+
+## Use
+Visit the website here http://justinebuddie.com/
+
+## Credits
+https://medium.com/@ianjsikes/build-a-personal-website-with-html-and-css-part-1-3013fb5dacd4
+https://codecary.com/personal-portfolio-website-using-html-css/
