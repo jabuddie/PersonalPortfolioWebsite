@@ -8,6 +8,7 @@
   }
   a{
     text-decoration: none;
+	color: #27bce6
   }
   .wrapper{
     width: 100%;
@@ -53,7 +54,7 @@
 
   .content{
     position: absolute;
-    top: 35%;
+    top: 25%;
     left: 8%;
   }
   .content .title{
@@ -80,7 +81,7 @@
   }
   .content p{
     width: 55%;
-    color: #757575;
+    color: #545454;
     margin-top: 25px;
     margin-bottom: 30px;
   }
