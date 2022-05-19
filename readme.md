@@ -5,7 +5,7 @@ Justine Buddie Personal Portfolio Website
 
 ## Build
 The website is hosted in AWS S3 (static web hosting).
-I used HTML & CSS tutorials as a basis and cusomized from there, see credits
+I used HTML & CSS tutorials as a basis and customized from there, see credits
 
 ## Use
 Visit the website here http://justinebuddie.com/
